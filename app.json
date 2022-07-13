@@ -1,7 +1,7 @@
 {
   "name": "UptoTelegraph Nexa bot",
   "description": "A Simple bot for uploading telegram images , small videos and some types of stickers",
-  "repository": "https://github.com/Hirusha-H/TelegraphUploader",
+  "repository": "https://github.com/DeepSandhra/TelegraphUploader",
   "logo": "https://telegra.ph/file/c487058c1c2b6dd439c10.jpg",
   "keywords": ["telegram", "telegraph", "imageuploader","telegram bot","telegraph uploader","Telegraph bot"],
   "env": {
